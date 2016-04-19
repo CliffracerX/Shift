@@ -1,0 +1,3 @@
+The "Pixelified" font, made by CliffracerX, using the FontStruct tool, has been released under the Creative Commons 3, specifically the Attribution/Non-Commercial/Share-alike version.
+
+If you want to use it it in your own non-commercial projects, go for it, just make sure to include this file with it.

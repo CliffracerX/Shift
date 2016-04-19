@@ -1,0 +1,3 @@
+All the audio made in this folder was made by CliffracerX within the 72 hour time limit of Ludum Dare 35, using Caustic 3 (by Single Cell Software).
+
+You're free to use it for your own, non-commercial projects, as long as you keep this file alongside the audio.
